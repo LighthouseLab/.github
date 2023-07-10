@@ -8,7 +8,7 @@ Our mission is to provide software solutions that are available to everyone at n
 
 🌎 **Equal Opportunities**: We value diversity and welcome individuals of all backgrounds, regardless of race, gender, sexual orientation, age, abilities, or religious beliefs.
 
-💡 **Full Transparency**: We maintain a 100% transparent policy not only for our code, operations and finances. We distribute sponsorship money equally among our team members and openly manage out projects.
+💡 **Full Transparency**: We maintain a 100% transparent policy not only for our code, operations and finances. We distribute sponsorship money equally among our team members and openly manage our projects.
 
 ✨ **Our Impact**: We are committed to reducing our carbon footprint by eliminating the need for physical offices. This flexible work environment not only benefits the planet but also allows us to allocate resources to our tech endeavors more efficiently.
 
